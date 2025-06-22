@@ -42,5 +42,5 @@ I have basic knowledge of SEO and digital marketing, and I’m always exploring 
 
 # ✨ Fun Fact
 
-I love coding, playing chess, and exploring business and marketing strategies — I enjoy blending tech and business thinking in everything I do.
+I love exploring business and marketing strategies — I enjoy blending tech and business thinking in everything I do.
 
