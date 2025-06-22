@@ -25,7 +25,10 @@ I have basic knowledge of SEO and digital marketing, and I’m always exploring 
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-orange?style=for-the-badge&logo=tensorflow)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
@@ -39,5 +42,5 @@ I have basic knowledge of SEO and digital marketing, and I’m always exploring 
 
 # ✨ Fun Fact
 
-I started my first small business when I was in class 7, and since then I’ve always loved thinking about startups, profitability, and business growth!
+I love coding, playing chess, and exploring business and marketing strategies — I enjoy blending tech and business thinking in everything I do.
 
