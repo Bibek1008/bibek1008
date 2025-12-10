@@ -2,15 +2,15 @@
 
 I am a Computer Science student passionate about full-stack web development, business growth, and building scalable solutions.  
 I love combining technology with business strategy to create impactful products.  
-I have basic knowledge of SEO and digital marketing, and I’m always exploring how tech can help startups become profitable.
+
 
 ---
 
 # 💼 Currently Working On
 
-- 🚀 MERN Stack + Full-Stack Projects
+- 🚀 MERN Stack + Full-Stack Projects + Next js
 - 💡 Exploring ways to integrate business models into web apps
-- 🌱 Learning advanced backend, deployment, and cloud services
+- 🌱 Learning advanced backend, deployment, and cloud services and devops
 
 ---
 
