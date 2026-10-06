@@ -41,7 +41,7 @@ Current work focuses on:
 - Developing detection-guided intervention mechanisms to identify and mitigate hallucinations before propagation.
 - Evaluating detection and intervention approaches across multiple models, tasks, and distribution shifts.
 
----
+
 
 ### Recursive Fine-Tuning and Model Degradation in Biomedical QA Systems
 
@@ -116,7 +116,7 @@ The project is focused on developing a deeper understanding of the architectures
 
 ## 💻 Technical Skills
 
----
+
 
 # ⚡ Skills
 
@@ -164,6 +164,7 @@ The project is focused on developing a deeper understanding of the architectures
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+---
 ## ✍️ Technical Writing
 
 I write technical articles covering computer science and software engineering topics, including:
@@ -176,8 +177,6 @@ I write technical articles covering computer science and software engineering to
 
 📝 **Hashnode:**  
 https://hashnode.com/@bibekbhandari1
-
----
 
 ---
 
