@@ -77,14 +77,6 @@ Research included:
 ---
 ---
 
-# 🔗 Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bhandari-053283226/)
-
-
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@bibekbhandari1)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bibekbhandari.site)
 
 ### ⚡ LLM Inference Optimization Lab
 
@@ -198,7 +190,6 @@ https://hashnode.com/@bibekbhandari1
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bhandari-053283226/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibek1008)
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@bibekbhandari1)
 
@@ -215,6 +206,3 @@ https://hashnode.com/@bibekbhandari1
 - Distribution Shift in LLM Systems
 - Reproducible AI Research
 
----
-
-> **Interested in understanding how modern AI systems work, how they fail, and how we can make them more reliable and efficient.**
