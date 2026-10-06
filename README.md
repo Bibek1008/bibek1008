@@ -8,25 +8,6 @@ My current work focuses on understanding and evaluating modern LLM systems throu
 
 I also have experience building full-stack applications using modern web technologies and enjoy connecting research ideas with practical implementations.
 
----
-
-## 🔬 Research Interests
-
-- Large Language Models (LLMs)
-- Generative AI
-- LLM Agents
-- Hallucination Detection & Mitigation
-- Trustworthy AI
-- Natural Language Processing
-- Reinforcement Learning
-- LLM Fine-Tuning
-- LoRA / QLoRA / PEFT
-- Efficient LLM Inference
-- Distribution Shift
-- Transformer Architectures
-
-
----
 
 ## 🧪 Research
 
@@ -189,14 +170,4 @@ https://hashnode.com/@bibekbhandari1
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bibekbhandari.site)
 
-## 📌 Currently Exploring
-
-- LLM Agent Reliability
-- Hallucination Detection & Intervention
-- Reinforcement Learning for Language Models
-- Parameter-Efficient Fine-Tuning
-- Efficient LLM Inference
-- Transformer Architectures
-- Distribution Shift in LLM Systems
-- Reproducible AI Research
 
