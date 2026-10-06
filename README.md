@@ -74,9 +74,6 @@ Research included:
 - Verified deterministic checkpoint/resume continuation across model, optimizer, and RNG states.
 - Evaluated the approach across **3 prospective random seeds**.
 
----
----
-
 
 ### ⚡ LLM Inference Optimization Lab
 
@@ -87,7 +84,7 @@ Research included:
 - Evaluated baseline and candidate policies using held-out workloads.
 - Studied latency, throughput, cache growth, and batching trade-offs.
 
----
+
 
 ### 🎯 Validation-Guided LoRA Loss Selection
 
@@ -98,7 +95,7 @@ Research included:
 - Conducted paired multi-seed experiments.
 - Compared NLL and exact-answer accuracy and analyzed cases where validation selection failed to transfer to the test set.
 
----
+
 
 ### 🔥 Transformer From Scratch
 
