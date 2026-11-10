@@ -51,6 +51,27 @@ An evaluation dashboard for inspecting ground-truth datasets, executing RAG pipe
 - Included guardrail evaluation to assess safety behavior.
 
 [🌐 Live Demo](https://production-grade-scalable-advance-r.vercel.app/) · [💻 GitHub Repository](https://github.com/Bibek1008/Production-Grade-Scalable-Advance-RAG)
+---
+
+## 🔭 Current Focus
+
+Currently studying and experimenting with advanced LLM systems, with a focus on:
+
+### ⚡ LLM Inference Engineering
+- KV-cache management and memory optimization.
+- Request scheduling and continuous batching.
+- Prefill and decode optimization.
+- Improving inference efficiency, throughput, and latency.
+- LLM serving architectures and inference optimization techniques.
+
+### 🧠 LLM Reasoning with Reinforcement Learning
+- Reinforcement Learning for reasoning-oriented language models.
+- Group Relative Policy Optimization (GRPO).
+- Reward design and verifiable reward mechanisms.
+- Policy optimization and reasoning evaluation.
+- Training and evaluating small language models for reasoning tasks.
+
+My goal is to understand how modern LLMs are trained, optimized, and deployed efficiently while improving their reasoning capabilities.
 
 ## 💻 Technical Skills
 
