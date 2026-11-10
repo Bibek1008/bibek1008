@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bibek Bhandari
 
-### Computer Science Graduate | LLM & Agentic AI Engineering | Applied AI Research
+AI & LLM Application Developer | Agentic AI | Full-Stack Development
 
-I am a Computer Science graduate interested in **Large Language Models, Generative AI, Agentic AI, Trustworthy AI, and Deep Learning**.
+I am a Computer Science graduate passionate about building intelligent applications using Generative AI, Large Language Models, Agentic AI, and modern web technologies.
 
-My work spans two areas: researching modern LLM systems through controlled experiments, fine-tuning, reinforcement learning, hallucination detection, and inference optimization; and building practical AI applications involving RAG pipelines, autonomous agents, LLM evaluation, and full-stack engineering.
+I enjoy developing practical AI-powered products, from RAG-based applications and autonomous agent workflows to LLM evaluation systems and full-stack platforms.
 
-I enjoy connecting research ideas with practical implementations and building reliable, evaluation-driven AI systems.
+My technical interests include building reliable AI systems, context engineering, agent orchestration, model optimization, and connecting AI capabilities with real-world software applications.
 
 ---
 
