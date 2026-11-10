@@ -9,52 +9,48 @@ I enjoy developing practical AI-powered products, from RAG-based applications an
 My technical interests include building reliable AI systems, context engineering, agent orchestration, model optimization, and connecting AI capabilities with real-world software applications.
 
 ---
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. AI-Powered Pull Request Reviewer
+### 1. AI-Powered Pull Request Reviewer
 
-Next.js · TypeScript · PostgreSQL · Prisma · Pinecone · Inngest · OpenRouter
+**Next.js · TypeScript · PostgreSQL · Prisma · Pinecone · Inngest · OpenRouter**
 
 An AI-powered code review platform that integrates with GitHub to analyze pull requests and provide contextual code review comments.
 
-Built a repository-aware RAG pipeline using code chunking, embeddings, and Pinecone vector search.
+- Built a repository-aware RAG pipeline using code chunking, embeddings, and Pinecone vector search.
+- Implemented asynchronous pull-request reviews and repository synchronization using Inngest.
+- Integrated GitHub OAuth, GitHub App webhooks, and Razorpay subscription billing.
 
-Implemented asynchronous pull-request reviews and repository synchronization using Inngest.
+[🌐 Live Demo](https://my-pull-request-reviewer.vercel.app/) · [💻 GitHub Repository](https://github.com/Bibek1008/My_pull-_request-reviewer)
 
-Integrated GitHub OAuth, GitHub App webhooks, and Razorpay subscription billing.
+---
 
-Live Demo · GitHub Repository
+### 2. AI-Powered Customer Support Agent
 
-2. AI-Powered Customer Support Agent
-
-Python · FastAPI · PostgreSQL · pgvector · LangChain · Groq · Presidio · Langfuse
+**Python · FastAPI · PostgreSQL · pgvector · LangChain · Groq · Presidio · Langfuse**
 
 A RAG-based customer support application that answers queries using an approved knowledge base and supports automated ticket workflows.
 
-Built knowledge retrieval and tool-calling workflows with intent classification and confidence-based validation.
+- Built knowledge retrieval and tool-calling workflows with intent classification and confidence-based validation.
+- Implemented extractive fallback responses and human escalation.
+- Added prompt injection detection, PII redaction, and safety guardrails.
+- Integrated PostgreSQL ticket management and Langfuse observability.
 
-Implemented extractive fallback responses and human escalation.
+[🌐 Live Demo](https://customer-support-agent-k21j.onrender.com/) · [💻 GitHub Repository](https://github.com/Bibek1008/Customer-Support-Agent)
 
-Added prompt injection detection, PII redaction, and safety guardrails.
+---
 
-Integrated PostgreSQL ticket management and Langfuse observability.
+### 3. Enterprise Agentic RAG — Evaluation Dashboard
 
-Live Demo · GitHub Repository
-
-3. Enterprise Agentic RAG — Evaluation Dashboard
-
-Python · Streamlit · RAGAS · FastAPI · LangGraph
+**Python · Streamlit · RAGAS · FastAPI · LangGraph**
 
 An evaluation dashboard for inspecting ground-truth datasets, executing RAG pipeline evaluations, and analyzing system quality.
 
-Built a three-stage evaluation workflow covering dataset review, pipeline execution, and metric analysis.
+- Built a three-stage evaluation workflow covering dataset review, pipeline execution, and metric analysis.
+- Integrated RAGAS metrics to evaluate answer quality, faithfulness, and relevance.
+- Included guardrail evaluation to assess safety behavior.
 
-Integrated RAGAS metrics to evaluate answer quality, faithfulness, and relevance.
-
-Included guardrail evaluation to assess safety behavior.
-
-Live Demo · GitHub Repository
-
+[🌐 Live Demo](https://production-grade-scalable-advance-r.vercel.app/) · [💻 GitHub Repository](https://github.com/Bibek1008/Production-Grade-Scalable-Advance-RAG)
 
 ## 💻 Technical Skills
 
