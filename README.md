@@ -9,6 +9,51 @@ I enjoy developing practical AI-powered products, from RAG-based applications an
 My technical interests include building reliable AI systems, context engineering, agent orchestration, model optimization, and connecting AI capabilities with real-world software applications.
 
 ---
+🚀 Featured Projects
+
+1. AI-Powered Pull Request Reviewer
+
+Next.js · TypeScript · PostgreSQL · Prisma · Pinecone · Inngest · OpenRouter
+
+An AI-powered code review platform that integrates with GitHub to analyze pull requests and provide contextual code review comments.
+
+Built a repository-aware RAG pipeline using code chunking, embeddings, and Pinecone vector search.
+
+Implemented asynchronous pull-request reviews and repository synchronization using Inngest.
+
+Integrated GitHub OAuth, GitHub App webhooks, and Razorpay subscription billing.
+
+Live Demo · GitHub Repository
+
+2. AI-Powered Customer Support Agent
+
+Python · FastAPI · PostgreSQL · pgvector · LangChain · Groq · Presidio · Langfuse
+
+A RAG-based customer support application that answers queries using an approved knowledge base and supports automated ticket workflows.
+
+Built knowledge retrieval and tool-calling workflows with intent classification and confidence-based validation.
+
+Implemented extractive fallback responses and human escalation.
+
+Added prompt injection detection, PII redaction, and safety guardrails.
+
+Integrated PostgreSQL ticket management and Langfuse observability.
+
+Live Demo · GitHub Repository
+
+3. Enterprise Agentic RAG — Evaluation Dashboard
+
+Python · Streamlit · RAGAS · FastAPI · LangGraph
+
+An evaluation dashboard for inspecting ground-truth datasets, executing RAG pipeline evaluations, and analyzing system quality.
+
+Built a three-stage evaluation workflow covering dataset review, pipeline execution, and metric analysis.
+
+Integrated RAGAS metrics to evaluate answer quality, faithfulness, and relevance.
+
+Included guardrail evaluation to assess safety behavior.
+
+Live Demo · GitHub Repository
 
 
 ## 💻 Technical Skills
@@ -69,14 +114,6 @@ My technical interests include building reliable AI systems, context engineering
 
 ---
 
-## 🏆 Achievements
-
-- **Top 6 Finalist — CTRL+MOVE 24-Hour Hackathon (2025)**, selected among 105 participating teams.
-- Participated in Code Carnage 24-Hour Hackathon (2025).
-- Participated in AI Hiring Show: Vibe Coding, Power Hiring (2025).
-
----
-
 ## ✍️ Technical Writing
 
 I write technical articles covering computer science and software engineering topics, including:
@@ -95,7 +132,6 @@ I write technical articles covering computer science and software engineering to
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-bhandari-053283226/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bibek1008)
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@bibekbhandari1)
 
