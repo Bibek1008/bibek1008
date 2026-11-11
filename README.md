@@ -36,7 +36,7 @@ A RAG-based customer support application that answers queries using an approved 
 - Added prompt injection detection, PII redaction, and safety guardrails.
 - Integrated PostgreSQL ticket management and Langfuse observability.
 
-[🌐 Live Demo]((https://customer-support-agent-sooty.vercel.app/)) · [💻 GitHub Repository](https://github.com/Bibek1008/Customer-Support-Agent)
+[🌐 Live Demo](https://customer-support-agent-sooty.vercel.app/) · [💻 GitHub Repository](https://github.com/Bibek1008/Customer-Support-Agent)
 
 ---
 
